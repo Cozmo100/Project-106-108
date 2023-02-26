@@ -1,0 +1,19 @@
+
+body{
+    background: rgb(235, 249, 177) !important;
+    font-family: monospace !important;
+}
+
+div{
+    background: rgb(241, 252, 199);
+    margin: 20px;
+}
+
+button{
+    font-weight: 900 !important;
+}
+
+img{
+    height: 100;
+    width: 120;
+}
